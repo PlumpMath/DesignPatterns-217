@@ -1,0 +1,16 @@
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\nunit.framework.dll
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\nunit.framework.xml
+C:\projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.dll
+C:\projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.Unity.dll
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.Unity.xml
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\projects\DesignPatterns\DesignPatterns\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
